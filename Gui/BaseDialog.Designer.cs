@@ -66,6 +66,7 @@ namespace Chess_Game
 			this.Controls.Add(this.StartGame);
 			this.Controls.Add(this.GameRules);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+			this.MaximizeBox = false;
 			this.Name = "BaseDialog";
 			this.ResumeLayout(false);
 

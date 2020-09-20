@@ -1,12 +1,11 @@
 Leírás:
 
-A játék egy logikai játék. A lényege, hogy legyőzd a számítógépet. A bábukat úgy kell elhelyezni, hogy az semelyik másik bábut ne üssön és azt se üsse semelyik másik.
+A játék lényege, hogy legyőzd a számítógépet. 
+A bábukat úgy kell elhelyezni, hogy az semelyik másik bábut ne üssön.
+Ezen felül az általad elhelyezett bábut se ütheti semmi.
+A játékban a sakk szabályai érvényesek. 
+Nem kötelező 1 plusz lépésnek kimaradni két király között, hisz a cél, hogy ne üthessék egymást!!!
 
 
-Játék menete:
-1. Láthatunk egy bábut mindig és egy táblát.
-2. Ahová kattintasz, leteszi az aktuális bábudat.
-3. Ha jó helyre tetted akkor a számítógép is lerakja a bábut.
-
-A játék addig megy amíg A. vagy az egyik fél logikailag se tud lerakni egy bábut se
-			B. Játékos rossz helyre teszi a bábuját
+A játék addig megy amíg A. vagy az egyik fél nem tud már sehova lerakni egy bábut se
+			B. a játékos rossz helyre teszi a bábuját
