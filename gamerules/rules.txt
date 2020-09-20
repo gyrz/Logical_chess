@@ -1,0 +1,12 @@
+Leírás:
+
+A játék egy logikai játék. A lényege, hogy legyőzd a számítógépet. A bábukat úgy kell elhelyezni, hogy az semelyik másik bábut ne üssön és azt se üsse semelyik másik.
+
+
+Játék menete:
+1. Láthatunk egy bábut mindig és egy táblát.
+2. Ahová kattintasz, leteszi az aktuális bábudat.
+3. Ha jó helyre tetted akkor a számítógép is lerakja a bábut.
+
+A játék addig megy amíg A. vagy az egyik fél logikailag se tud lerakni egy bábut se
+			B. Játékos rossz helyre teszi a bábuját
